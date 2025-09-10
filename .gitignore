@@ -1,0 +1,16 @@
+#files
+*.parquet
+*.csv
+*.DS_Store
+*.png
+*.txt
+*.zip
+*.gif
+*.log
+*.pkl
+*.geojson
+
+#directories
+.ipynb_checkpoints/
+__pycache__/
+
